@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1,Canal Sport Tv
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/9d3ce899bc30de5c851bae5860494ba9/sportv.txt
+
+#EXTINF:-2, Sport Tv2
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/c1cfcd82eaf05b483543977ffb1e3bd2/sportv2.txt
+
+#EXTINF:-3,Espn
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/709a3bfee026387632249a8cf3601236/espn.txt
+
+#EXTINF:-4,Espn 2
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/f8927f0f82f07c525e7df13f2f8bba6f/espn2.txt
+
+#EXTINF:-5,Espn 3
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/72da9678f213044329b8613a557426f0/espn3.txt
+
+#EXTINF:-6,Espn 4
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/1c6873041db2ff79f1466f9115b84af4/espn4.txt
+
+#EXTINF:-7,Eleven1
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/cfb03c4fbec75f61341fdf9a0a9980bd/pt_eleven1.txt
+
+#EXTINF:-8,Hbo Max
+https://d1muf25xa03so8hp17.s27-usa-cloudfront-net.online/token/3ccd39af2ba3e0de666a19f153dde3b1/max1.txt
+
+#EXTINF:-9,Espn 7
